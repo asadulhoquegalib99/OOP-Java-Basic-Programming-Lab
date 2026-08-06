@@ -8,3 +8,6 @@ The problems are
 5. product of two numbers.
 6. basic arithmetic operations.
 7. multiplication table.
+8. pattern display: JAVA.
+9. Expression Evaluation.
+10. Formula Computation.
